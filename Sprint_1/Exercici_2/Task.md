@@ -1,4 +1,4 @@
-###Exercici 2
+### Exercici 2
 
 Realitza la següent consulta sobre la base de dades acabada de crear: 
 
