@@ -9,7 +9,7 @@ There are five tables in the database *movies*. Note: *tb* stands for table.
 5. *tb_genre*, includes different types of genres, genre_id. 
 
 
-### Relationships
+### Relationships (see image *Entity - Relationship Diagram*)
 
 *tb_role*, related to *tb_movie_person*. 
 
