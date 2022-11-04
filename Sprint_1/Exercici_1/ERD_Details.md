@@ -12,7 +12,11 @@ There are five tables in the database *movies*. Note: *tb* stands for table.
 ### Relationships
 
 *tb_role*, related to *tb_movie_person*. 
+
 *tb_movie_person*, related to *tb_role*, *tb_movies*, *tb_person*.
+
 *tb_movies*, related to *tb_movie_person*.
+
 *tb_person*, related to *tb_movie_person*.
+
 *tb_genre*, related to *tb_movies*.
